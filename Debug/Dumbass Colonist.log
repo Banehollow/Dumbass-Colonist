@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\C++ Projects\Dumbass Colonist\Source.cpp(163,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dumbass Colonist.vcxproj -> E:\C++ Projects\Dumbass Colonist\Debug\Dumbass Colonist.exe
